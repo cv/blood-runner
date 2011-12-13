@@ -19,9 +19,10 @@ gem 'sass-rails', '~> 3.1.0'
 gem 'jquery-rails'
 gem 'inherited_resources'
 gem 'haml'
-gem "compass"
-gem "omniauth"
-gem "cancan"
+gem 'compass'
+gem 'omniauth'
+gem 'cancan'
+gem 'geokit'
 
 # Use unicorn as the web server
 # gem 'unicorn'
